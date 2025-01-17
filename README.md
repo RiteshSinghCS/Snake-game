@@ -112,6 +112,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 ## ✨ About the Developer
 
 - **Ritesh Kumar Singh**
-- 🌐 LinkedIn: [Connect with me](#)
+- 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/riteshkumarsinghcs/)
 - 🌟 Portfolio: [Visit Here](#)
 
