@@ -18,7 +18,7 @@ Welcome to the **Snake Game** repository! 🎮 This classic arcade game has been
 
 Experience the game in action: [🔗 Play Now](https://riteshsinghcs.github.io/Snake-game/) 
 
-![🐍 Game Preview](#)(https://i.postimg.cc/CMrFgfkr/Screenshot-2025-01-18-010917.png)
+![🐍 Game Preview](https://i.postimg.cc/CMrFgfkr/Screenshot-2025-01-18-010917.png)
 
 ---
 
