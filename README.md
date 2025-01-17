@@ -115,14 +115,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 - 🌐 LinkedIn: [Connect with me](#)
 - 🌟 Portfolio: [Visit Here](#)
 
----
-
-## 🙌 Acknowledgments
-
-- Inspired by the original Snake game from the Nokia era.
-- Thanks to open-source resources and tutorials that made this possible.
-
----
-
-Ready to relive the classic? 🕹️ Dive in and have fun!
-
