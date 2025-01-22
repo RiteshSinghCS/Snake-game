@@ -38,7 +38,7 @@ Follow these steps to run the game locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/RiteshSinghCS/Snake-game.git
    ```
 
 2. **Navigate to the project folder:**
