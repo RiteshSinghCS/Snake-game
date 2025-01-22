@@ -24,7 +24,7 @@ Experience the game in action: [🔗 Play Now](https://riteshsinghcs.github.io/S
 
 ## 🛠️ How to Play
 
-1. **Use arrow keys** (or swipe on mobile) to control the snake.
+1. **Use arrow keys** to control the snake.
 2. **Eat the food** to grow longer and earn points.
 3. **Avoid colliding** with walls or yourself.
 
